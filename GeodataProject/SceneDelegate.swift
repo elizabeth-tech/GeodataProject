@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  GeodataProject
 //
-//  Created by Elizaveta on 28.11.2020.
+//  Created by Elizaveta on 24.11.2020.
 //
 
 import UIKit
